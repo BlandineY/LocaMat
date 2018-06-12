@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocaMat.Application", "LocaMat.Application.csproj", "{A2385A68-D577-45DC-A763-E5E3CB6D13AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2385A68-D577-45DC-A763-E5E3CB6D13AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2385A68-D577-45DC-A763-E5E3CB6D13AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2385A68-D577-45DC-A763-E5E3CB6D13AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2385A68-D577-45DC-A763-E5E3CB6D13AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B23F5CE-E00E-434D-B3D4-0D955E2C21BE}
+	EndGlobalSection
+EndGlobal

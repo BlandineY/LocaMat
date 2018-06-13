@@ -9,6 +9,7 @@ namespace LocaMat
         {
             var application = new Application();
             application.Demarrer();
+            //hello
         }
     }
 }
